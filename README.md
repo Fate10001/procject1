@@ -1,6 +1,5 @@
 # High-Pass Multi-Agent AI Workflow Platform
 
-这是一个用于展示 AI/Agent 能力的高通过率项目模板，包含完整前后端、多 Agent 协同、任务拆解、执行、审核、报告生成、日志记录和可视化页面。
 
 ## 项目亮点
 
